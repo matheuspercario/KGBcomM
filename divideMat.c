@@ -175,7 +175,7 @@
             tempoFinal = clock();
             //Tempo total de execucao
             tempoExecucao = (tempoFinal - tempoInicial) * 1000.0 / CLOCKS_PER_SEC;
-            printf("\nTempo de execucao: %.5lf ms\n", tempoExecucao);
+            printf("\nTempo de execucao: %.3lf ms\n", tempoExecucao);
 
 		/* ----------------------------------------------------------------- */
 		/* Printar matriz diag2 no arquivo txt! ---------------------------- */
