@@ -4,10 +4,10 @@
 *	Limeira - SP
 *	
 *	GRUPO - KGBcomM
-*
+* 	
+*	Matheus Percario Bruder		RA: 222327
 *	Kevin Barrios 				RA: 219643
 *	Gustavo Tarrafil			RA: 159740
-*	Matheus Percario Bruder		RA: 222327
 *	
 *	Maio/2019
 */
