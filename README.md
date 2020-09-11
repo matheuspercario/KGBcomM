@@ -19,6 +19,10 @@
 
  A matriz original deve ser dividida em outras duas matrizes também N x N de tal forma que a primeira matriz seja composta por elementos a partir da diagonal principal e acima; e a segunda matriz com elementos abaixo da diagonal principal. 
 
+ Os dados da matriz original devem vir de um arquivo e as matrizes resultantes devem ser gravadas em arquivos com as extensões diag1 para os dados da primeira matriz e diag2 para os dados da segunda matriz. 
+
+ O programa deve ser testado para 2, 4, 8 e 16 threads, com matrizes 1000 x 1000.  
+ 
 ## Material e Método
 
  ### Instrução para a compilação do código
